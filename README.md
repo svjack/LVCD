@@ -120,7 +120,11 @@ run_video_generation(ckpt_path, svd_path, config_path, device, root_dir, output_
 
 
 
-https://github.com/user-attachments/assets/4b2ca17e-51e3-45b5-a93a-0e5d138b4b49
+
+https://github.com/user-attachments/assets/d9cd236c-7290-4fec-a608-a01af68551a3
+
+
+
 
 
 
