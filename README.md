@@ -34,8 +34,9 @@
 5. **Run Video Generation Task**
 
 ```python
-import os
 import sys
+sys.path.insert(0, "inference/")
+import os
 import torch
 import numpy as np
 import argparse
