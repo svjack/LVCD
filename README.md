@@ -118,6 +118,12 @@ output_dir = './inference'
 run_video_generation(ckpt_path, svd_path, config_path, device, root_dir, output_dir)
 ```
 
+
+
+https://github.com/user-attachments/assets/4b2ca17e-51e3-45b5-a93a-0e5d138b4b49
+
+
+
 This script encapsulates the entire process from setting up the environment to running the video generation task. The `run_video_generation` function is designed to be modular and reusable, allowing you to easily adapt it to different projects or configurations.
 
 ## ACM Transactions on graphics & SIGGRAPH Asia 2024
